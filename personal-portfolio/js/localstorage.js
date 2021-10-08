@@ -2,7 +2,6 @@
 const inputName = document.getElementById('full-name');
 const inputLastName = document.getElementById('Last-name');
 const inputEmail = document.getElementById('email-address');
-const inputMessage = document.getElementById('message');
 const formLocally = document.getElementById('form');
 
 function storageLocally () {
